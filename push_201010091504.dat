@@ -1,0 +1,1 @@
+{"local_tables_info":{"line_items":3,"orders":1,"users":1,"schema_migrations":9,"products":1,"carts":2},"klass":"Taps::Push","session_uri":"/sessions/9081752721","completed_tables":["line_items","schema_migrations"],"database_url":"sqlite://db/development.sqlite3","table_filter":null,"remote_url":"http://heroku:osui59a24am79x@taps3.heroku.com","stream_state":{}}
